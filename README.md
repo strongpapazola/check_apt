@@ -1,6 +1,6 @@
 # dpkg_lock solver
 
 Tested :
-Linux 4.19.0-kali5-amd64 #1 SMP Debian 4.19.37-2kali1 (2019-05-15) x86_64 GNU/Linux
+Linux 5.3.0-51-generic #44-Ubuntu SMP Wed Apr 22 21:09:44 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
 
 usage: python3 dpkg_lock.py [--id/--rmfile]
